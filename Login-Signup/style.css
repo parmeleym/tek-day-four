@@ -1,0 +1,41 @@
+div{
+    width: 200px;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 0;
+}
+
+a{
+    color: blue;
+    float: right;
+    padding-top: 10px;
+    padding-right: 3px;
+}
+
+a:hover{
+    color: purple;
+}
+
+input{
+    padding-bottom: 4px;
+    padding: 4px;
+    margin-bottom: 6px;
+}
+
+input[type=text]{
+    width: 94%;
+}
+
+h2{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+input[value]{
+    color: grey;
+}
+
+.Button[value]{
+    color: black;
+}
