@@ -1,0 +1,76 @@
+#box{
+    height: 500px;
+    width: 450px;
+    background: linear-gradient(0deg, rgba(10,0,187,1) 0%, rgba(48,48,246,1) 35%, rgba(0,212,255,1) 100%);
+    border: none;
+}
+
+#title{
+    color: white;
+    font: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:300%;
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 20px;
+}
+
+#decor{
+    background-color: white;
+    height: 10px;
+    width: 300px;
+    padding-left: 150px;
+    padding-top: 5px;
+}
+
+#tagline{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80%;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    margin-top: -30px;
+    margin-bottom: -8px;
+}
+
+#name{
+    opacity: .3;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 400px;
+    height: 20px;
+}
+
+#email{
+    opacity: .3;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 400px;
+    height: 20px;
+}
+
+#options{
+    opacity: .3;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 400px;
+    height: 20px;
+}
+
+#user-input{
+    opacity: .3;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 400px;
+    height: 150px;
+}
+
+#button2{
+    opacity: .3;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 409px;
+    height: 40px;
+}
